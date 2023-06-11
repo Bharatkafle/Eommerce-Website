@@ -1,0 +1,29 @@
+.input__container {
+  width: 70%;
+}
+
+.input__wrapper {
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.search__icon {
+  font-size: 20px;
+  color: #999;
+  margin-right: 8px;
+}
+
+.input__field {
+  border: none;
+  outline: none;
+  flex-grow: 1;
+  padding: 4px;
+  font-size: 16px;
+  color: #333;
+}
+
+/* Additional Styles */
+.input__field::placeholder {
+  color: #999;
+}

@@ -1,0 +1,13 @@
+button{
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 26px;
+    gap: 8px;
+    background: #1E2832;
+    border: none;
+    outline: none;
+    color: white;
+    text-transform: uppercase;
+    }
